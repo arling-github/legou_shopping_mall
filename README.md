@@ -1,0 +1,2 @@
+# legou_shopping_mall
+前端项目练习1 主要目标是练习 jQuery的各种方法的使用以及JavaScript的基本使用，其次是复习HTML布局与CSS样式的编写，将前端技术全部整合使用。了解商城的开发思想，掌握JS页面交互的写法。
